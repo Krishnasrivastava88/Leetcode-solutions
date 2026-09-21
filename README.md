@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1051-height-checker](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
