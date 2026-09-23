@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
