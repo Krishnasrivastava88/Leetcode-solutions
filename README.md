@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -100,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Backtracking
 |  |
