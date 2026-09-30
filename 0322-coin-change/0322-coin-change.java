@@ -2,8 +2,6 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
 
         int[] dp = new int[amount + 1];
-
-        // Fill with a value bigger than any possible answer
         Arrays.fill(dp, amount + 1);
 
         dp[0] = 0;
