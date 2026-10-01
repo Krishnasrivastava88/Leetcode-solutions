@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0713-subarray-product-less-than-k](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -90,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1051-height-checker) |
 | [3731-find-missing-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -148,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
