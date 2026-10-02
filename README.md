@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0039-combination-sum) |
 ## Two Pointers
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
