@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
