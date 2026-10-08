@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## 0-1 Knapsack
