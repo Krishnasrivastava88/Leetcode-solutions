@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
