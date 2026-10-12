@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1051-height-checker) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search Tree
 |  |
