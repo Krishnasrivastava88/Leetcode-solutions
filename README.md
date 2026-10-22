@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
