@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
