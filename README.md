@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [3665-twisted-mirror-path-count](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Krishnasrivastava88/Leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
